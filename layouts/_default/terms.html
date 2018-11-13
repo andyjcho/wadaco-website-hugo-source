@@ -1,0 +1,30 @@
+{{- partial "header.html" . }}
+<div class="hmdl-list mdl-grid">
+    <div class="mdl-card mdl-shadow--4dp mdl-cell--12-col">
+        <div class="mdl-card__media mdl-color-text--grey-50">
+            <h3>{{ title .Data.Plural }}</h3>
+        </div>
+        <div class="hmdl-page-content mdl-color-text--grey-700 mdl-card__supporting-text">
+            {{ .Content }}
+
+        </div>
+        {{- partial "pagination.html" }}
+        {{- range .Paginator.Pages }}
+        <div class="mdl-card__list-item mdl-color-text--grey-600">
+            <div class="hmdl-page-meta">
+                {{- with .Params.author.image }}
+                <div class="minilogo" style="background-image: url('{{ . | relURL }}');"></div>
+                {{- end }}
+                <div>
+                    <strong><a href="{{ .Params.author.website }}">{{ .Params.author.name }}</a></strong>
+                    <!-- <span>{{ .Date.Format "Jan 2, 2006" }}</span> -->
+                </div>
+                <!-- {{ .Params }} -->
+                <a href="{{ .RelPermalink }}"><h5 class="mdl-color-text--grey-600">{{ title .Params.name }}</h5></a>
+            </div>
+        </div>
+        {{- end }}
+        {{- partial "pagination.html" }}
+    </div>
+</div>
+{{ partial "footer.html" . }}

@@ -1,0 +1,66 @@
+baseurl = "/"
+languageCode = "en-us"
+title = "Water Data Collaborative"
+theme = "HugoMDL"
+MetaDataFormat = "yaml"
+
+[permalinks]
+	page = "/:title/"
+	about = "/:filename/"
+
+[params]
+  author = "Berkeley Water Data Collaborative"
+  avatar = "/img/bear-logo.png"
+  background = "/images/background.jpg"
+  description = "The webpage of the Berkeley Water Data Collaborative"
+  image = "/img/bear-logo.png" #for frontpage profile card
+  # these don't seem to have an effect
+  mdlPrimary = "grey"
+  mdlAccent = "blue"
+  website = "https://github.com/waterdatacollaborative/"
+  # email = "Firstname@example.com"
+  # twitter = "https://twitter.com/firstname_lastname"
+  github = "https://github.com/waterdatacollaborative/"
+
+  copyrightyear = "2018"
+  frontpageposts = 1 #number of post cards to display on frontpage
+
+[taxonomies]
+  # category = "categories"
+  tag = "tags"
+  topic = "topics"
+  # award = "awards"
+  # challenge = "challenges"
+
+# Fully customizable header menu
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = -200
+# [[menu.main]]
+#   name = "Articles"
+#   url = "/post/"
+#   weight = -180
+[[menu.main]]
+  name = "Projects"
+  url = "/project/"
+  weight = -160
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = "-140"
+
+[[menu.main]]
+  name = "Topics"
+  url = "/topics/"
+  weight = "-130"
+
+# [[menu.main]]
+#   name = "Awards"
+#   url = "/awards/"
+#   weight = "-120"
+
+# [[menu.main]]
+#   name = "Challenges"
+#   url = "/challenges/"
+#   weight = "-110"
