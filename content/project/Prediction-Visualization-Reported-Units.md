@@ -3,6 +3,7 @@ title: Prediction and Visualization of Reported Units
 author:
   name: Team "JPL Civic Hackers"
   description: 'Team "JPL Civic Hackers" is:  Anna Waldron, Elena Smith'
+repo: https://github.com/waterdatacollaborative/Prediction-Visualization-Reported-Units
 challenge: '2018'
 topics: []
 

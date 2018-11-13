@@ -2,6 +2,7 @@
 title: 'Water: Towards True Affordability'
 author:
   name: Ludovico Bianchi
+repo: https://github.com/waterdatacollaborative/Water-Towards-True-Affordability
 challenge: '2018'
 topics:
 - affordability
