@@ -445,7 +445,8 @@ main {
     align-items: stretch;
     padding: 32px;
     box-sizing: border-box;
-    width: 100%
+    width: 100%;
+    white-space: nowrap;
 }
 
 .hmdl-page .hmdl-page-comments p {
@@ -453,6 +454,9 @@ main {
     width: 100%
 }
 
+.hmdl-page .hmdl-page-comments a {
+    display: inline;
+}
 .hmdl-page .hmdl-page-content {
     border: 0;
     box-sizing: border-box;

@@ -31,6 +31,8 @@ MetaDataFormat = "yaml"
   topic = "topics"
   # award = "awards"
   # challenge = "challenges"
+  initiative = 'initiatives'
+  award = 'awards'
 
 # Fully customizable header menu
 [[menu.main]]
