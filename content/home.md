@@ -1,9 +1,9 @@
 ---
-title: "About"
+title: "Home"
 description: "About the Water Data Collaborative"
 # date: "2015-08-18"
-type: "about"
-layout: "single"
+type: "static"
+# layout: "single"
 
 blurb: "Water data projects and resources"
 # recentposts: 5

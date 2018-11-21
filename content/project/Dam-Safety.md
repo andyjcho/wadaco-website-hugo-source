@@ -1,13 +1,20 @@
 ---
-title: Dam Safety bla bla
-author:
-  name: Team "Dammed if you do"
+title: Dam Safety Assessment Service (DAMSS)
+authors: []
+team:
+  name: Dammed if you do
+  url: ''
 repo: https://github.com/waterdatacollaborative/Dam-Safety
-challenge: '2018'
 topics:
 - infrastructure
+initiatives:
+- 2018-cawdc
+awards:
+- teamspirit
 
 ---
+
+
 
 
 

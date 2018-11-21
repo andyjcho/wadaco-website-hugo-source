@@ -1,12 +1,18 @@
 ---
 title: GreenGov Challenge
-author:
-  name: Team "CWEE"
+authors: []
+team:
+  name: CWEE
+  url: ''
 repo: https://github.com/waterdatacollaborative/greengov-challenge
-challenge: '2016'
 topics: []
+initiatives:
+- 2016-challenge
+awards: []
 
 ---
+
+
 
 
 

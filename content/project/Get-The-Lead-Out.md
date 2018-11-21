@@ -1,13 +1,21 @@
 ---
 title: Get the lead out!
-author:
-  name: Team "SF No Lead"
+authors: []
+team:
+  name: SF No Lead
+  url: ''
 repo: https://github.com/waterdatacollaborative/Get-The-Lead-Out
-challenge: '2018'
 topics:
 - health
+initiatives:
+- 2018-cawdc
+awards:
+- readytogo
+- peopleschoice
 
 ---
+
+
 
 
 

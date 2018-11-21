@@ -1,13 +1,20 @@
 ---
 title: Drinking Water Contaminant Classification
-author:
-  name: (unknown)
+authors:
+- name: TODO
+  url: ''
+team: {}
 repo: https://github.com/waterdatacollaborative/Drinking-Water-Contaminant-Classification
-challenge: '2018'
 topics:
+- infrastructure
 - health
+initiatives:
+- 2018-cawdc
+awards: []
 
 ---
+
+
 
 
 

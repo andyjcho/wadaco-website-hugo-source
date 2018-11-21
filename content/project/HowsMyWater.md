@@ -1,13 +1,19 @@
 ---
 title: How's My Water?
-author:
-  name: (unknown)
+authors:
+- name: TODO
+  url: ''
+team: {}
 repo: https://github.com/waterdatacollaborative/HowsMyWater
-challenge: '2018'
 topics:
 - health
+initiatives:
+- 2018-cawdc
+awards: []
 
 ---
+
+
 
 
 

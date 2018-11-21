@@ -1,11 +1,15 @@
 ---
 title: 'Water: Towards True Affordability'
-author:
-  name: Ludovico Bianchi
+authors:
+- name: Ludovico Bianchi
+  url: https://ludob.com
+team: {}
 repo: https://github.com/waterdatacollaborative/Water-Towards-True-Affordability
-challenge: '2018'
 topics:
 - affordability
+initiatives:
+- 2018-cawdc
+awards: []
 
 ---
 
@@ -20,4 +24,6 @@ They also did something with Python:
 def get_water_data(raw_data):
     return raw_data.clean(nicely=True)
 ```
+
+
 

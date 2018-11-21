@@ -1,13 +1,20 @@
 ---
 title: Water Quality Explorer
-author:
-  name: (unknown)
+authors:
+- name: TODO
+  url: ''
+team: {}
 repo: https://github.com/waterdatacollaborative/WQ-Explorer
-challenge: '2016'
 topics:
 - health
+initiatives:
+- 2016-challenge
+awards:
+- winner
 
 ---
+
+
 
 
 

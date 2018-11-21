@@ -47,20 +47,20 @@ MetaDataFormat = "yaml"
   name = "Projects"
   url = "/project/"
   weight = -160
-[[menu.main]]
-  name = "About"
-  url = "/about/"
-  weight = "-140"
+# [[menu.main]]
+#   name = "About"
+#   url = "/about/"
+#   weight = "-140"
 
 [[menu.main]]
   name = "Topics"
   url = "/topics/"
   weight = "-130"
 
-# [[menu.main]]
-#   name = "Awards"
-#   url = "/awards/"
-#   weight = "-120"
+[[menu.main]]
+  name = "Initiatives"
+  url = "/initiatives/"
+  weight = "-120"
 
 # [[menu.main]]
 #   name = "Challenges"

@@ -1,15 +1,25 @@
 ---
 title: Prediction and Visualization of Reported Units
-author:
-  name: Team "JPL Civic Hackers"
-  description: 'Team "JPL Civic Hackers" is:  Anna Waldron, Elena Smith'
+authors:
+- name: ' Anna Waldron'
+  url: ''
+- name: Elena Smith
+  url: ''
+team:
+  name: JPL Civic Hackers
+  url: ''
 repo: https://github.com/waterdatacollaborative/Prediction-Visualization-Reported-Units
-challenge: '2018'
 topics: []
+initiatives:
+- 2018-cawdc
+awards:
+- imagine-h2o
 
 ---
 
 Saving staff time by building a model that identifies Electronic Annual Reports (EARs) with errors? Can we learn more about contributing factors through geographic visualization?
 
 By Anna Waldron and Elena Smith, Winner of Imagine H2O Award in 2018 California Water Data Challenge 
+
+
 
