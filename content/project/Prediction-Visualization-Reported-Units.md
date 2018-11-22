@@ -1,15 +1,16 @@
 ---
 title: Prediction and Visualization of Reported Units
 authors:
-- name: ' Anna Waldron'
-  url: ''
 - name: Elena Smith
   url: ''
+- name: ' Anna Waldron'
+  url: ''
 team:
-  name: JPL Civic Hackers
+  name: Lovelace Ladies
   url: ''
 repo: https://github.com/waterdatacollaborative/Prediction-Visualization-Reported-Units
-topics: []
+topics:
+- tools
 initiatives:
 - 2018-cawdc
 awards:
@@ -21,5 +22,7 @@ Saving staff time by building a model that identifies Electronic Annual Reports 
 
 By Anna Waldron and Elena Smith, Winner of Imagine H2O Award in 2018 California Water Data Challenge 
 
+Additional resources:
 
+- [Project webpage](https://github.com/ozzysChiefDataScientist/water)
 
