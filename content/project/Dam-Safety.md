@@ -1,13 +1,13 @@
 ---
 title: 'DAMMS: Dam Assessment Mapping and Safety System'
 authors:
-- name: Dan Constable
-  url: ''
-- name: Jessica Rahman
+- name: Daniel Siegel
   url: ''
 - name: Colin King-Bailey
   url: ''
-- name: Daniel Siegel
+- name: Jessica Rahman
+  url: ''
+- name: Dan Constable
   url: ''
 team:
   name: Dammed if you do

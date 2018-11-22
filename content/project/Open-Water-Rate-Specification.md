@@ -1,19 +1,19 @@
 ---
 title: Open Water Rate Specification (OWRS)
 authors:
-- name: David Marulli
+- name: Patrick Atwater
   url: ''
 - name: Christopher Tull
   url: http://christophertull.org
-- name: Patrick Atwater
+- name: David Marulli
   url: ''
 team:
   name: ARGO
   url: http://www.argolabs.org/
 repo: https://github.com/waterdatacollaborative/Open-Water-Rate-Specification
 topics:
-- affordability
 - tools
+- affordability
 initiatives:
 - 2018-cawdc
 awards:

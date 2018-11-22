@@ -1,9 +1,9 @@
 ---
 title: Prediction and Visualization of Reported Units
 authors:
-- name: Elena Smith
-  url: ''
 - name: ' Anna Waldron'
+  url: ''
+- name: Elena Smith
   url: ''
 team:
   name: Lovelace Ladies

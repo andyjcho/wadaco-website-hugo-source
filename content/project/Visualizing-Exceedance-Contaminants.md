@@ -1,13 +1,13 @@
 ---
 title: Visualizing Exceedance of Contaminants
 authors:
-- name: Yotam Hacohen
-  url: ''
-- name: Rucker Alex
+- name: Aaron Hans
   url: ''
 - name: Robert Gibboni
   url: ''
-- name: Aaron Hans
+- name: Rucker Alex
+  url: ''
+- name: Yotam Hacohen
   url: ''
 team:
   name: OpenOakland

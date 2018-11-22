@@ -6,8 +6,8 @@ authors:
 team: {}
 repo: https://github.com/waterdatacollaborative/Drinking-Water-Contaminant-Classification
 topics:
-- infrastructure
 - health
+- infrastructure
 initiatives:
 - 2018-cawdc
 awards: []

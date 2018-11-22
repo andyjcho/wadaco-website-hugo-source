@@ -1,11 +1,11 @@
 ---
 title: Get the lead out!
 authors:
-- name: Lo Benichou
+- name: Laura Deehan
   url: ''
 - name: Sadie Gill
   url: ''
-- name: Laura Deehan
+- name: Lo Benichou
   url: ''
 team:
   name: SF No Lead
@@ -16,8 +16,8 @@ topics:
 initiatives:
 - 2018-cawdc
 awards:
-- readytogo
 - peopleschoice
+- readytogo
 
 ---
 

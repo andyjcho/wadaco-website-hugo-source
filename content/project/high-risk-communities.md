@@ -1,9 +1,9 @@
 ---
 title: Identifying high-risk communities
 authors:
-- name: Chuan-Shin Chong
-  url: ''
 - name: Jacqueline Barkoski
+  url: ''
+- name: Chuan-Shin Chong
   url: ''
 team:
   name: Code4Sac
