@@ -1,0 +1,42 @@
+{{ $page := .page }}
+{{ $variant := .variant }}
+
+{{ $tagID := $page.Params.slug }}
+{{ $textTooltip := $page.Params.name }}
+{{ $textDisplay := $page.Params.name }}
+
+{{ with $page.Params.badge }}
+    {{ $textDisplay = print . " " $textDisplay }}
+{{ end }}
+
+{{ if eq $page.Section "awards" }}
+    {{ $textTooltip = print " Award: " $textTooltip }}
+{{ end }}
+
+{{ with $page.Params.year }}
+    {{ $textDisplay = . }}
+{{ end }}
+
+
+{{ if eq $variant "text" }}
+<span class="mdl-chip">
+    <span id="tagbutton" class="mdl-chip__text">
+        <!-- maybe this can be improved with a Hugo variable for topictag? -->
+        <a id="tagbutton-{{ $tagID }}" class="mdl-button mdl-js-button mdl-js-ripple-effect" href="{{ $page.Permalink }}" title="{{ $textTooltip }}">{{ $textDisplay }}</a>
+        <!-- <span for="tagbutton-{{ $tagID }}" class="mdl-tooltip">{{ $textTooltip }}</span> -->
+    </span>
+</span>
+{{ end }}
+
+{{ if eq $variant "icon" }}
+
+<span class="">
+    <a id="tagbutton-{{ $tagID }}" class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon" href="{{ $page.Permalink }}" title="{{ $textTooltip }}">{{ $textDisplay }}</a>
+</span>
+{{ end }}
+
+{{ if eq $variant "simple" }}
+<span class="">
+    <a class="mdl-button mdl-js-button mdl-js-ripple-effect" href="{{ $page.Permalink }}" title="{{ $textTooltip }}">{{ $textDisplay }}</a>
+</span>
+{{ end }}

@@ -1,7 +1,0 @@
-<span class="mdl-chip">
-    <span id="topictag" class="mdl-chip__text">
-        <!-- maybe this can be improved with a Hugo variable for topictag? -->
-        <a id="topictag{{ . }}" class="mdl-button mdl-js-button mdl-js-ripple-effect" href="{{"/topics/"|relLangURL }}{{.|urlize}}">{{ . }}</a>
-        <span for="topictag{{ . }}" class="mdl-tooltip">Comments about "{{ . }}" here</span>
-    </span>
-</span>

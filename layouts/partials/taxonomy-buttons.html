@@ -1,7 +1,10 @@
 {{ $tax := .tax }}
 <!-- the content page -->
 {{ $page := .page }}
+<!-- the variant to use -->
+{{ $variant := .variant }}
+
 <!-- find all taxonomy pages for the content page -->
 {{ range where ($page.Site.GetPage $tax).Pages ".Params.slug" "in" (index $page.Params $tax) }}
-    {{ partial "taxonomy-button-from-page" . }}
+    {{ partial "taxonomy-button-variants" (dict "page" . "variant" $variant) }}
 {{ end }}
