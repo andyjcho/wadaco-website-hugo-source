@@ -43,6 +43,12 @@ MetaDataFormat = "yaml"
 #   name = "Articles"
 #   url = "/post/"
 #   weight = -180
+
+[[menu.main]]
+  name = "Mission"
+  url = "/mission/"
+  weight = -190
+
 [[menu.main]]
   name = "People"
   url = "/people/"
