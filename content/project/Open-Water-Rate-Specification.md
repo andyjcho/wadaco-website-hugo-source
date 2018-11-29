@@ -10,7 +10,7 @@ authors:
 team:
   name: ARGO
   url: http://www.argolabs.org/
-repo: https://github.com/waterdatacollaborative/Open-Water-Rate-Specification
+repo: https://github.com/waterdatacollaborative/Open-Water-Rate-Specification-2018
 topics:
 - tools
 - affordability
@@ -18,6 +18,8 @@ initiatives:
 - 2018-cawdc
 awards:
 - moonshot
+weight: -353
+cardbackground: '#78909C'
 
 ---
 

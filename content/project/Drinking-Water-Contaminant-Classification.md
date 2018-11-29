@@ -1,16 +1,18 @@
 ---
 title: Drinking Water Contaminant Classification
 authors:
-- name: TODO
-  url: ''
+- name: Nicole Look
+  url: https://github.com/nmlook
 team: {}
-repo: https://github.com/waterdatacollaborative/Drinking-Water-Contaminant-Classification
+repo: https://github.com/waterdatacollaborative/NicoleLook_Drinking-Water-Contaminant-Classification
 topics:
 - health
 - infrastructure
 initiatives:
 - 2018-cawdc
 awards: []
+weight: -311
+cardbackground: '#EC407A'
 
 ---
 

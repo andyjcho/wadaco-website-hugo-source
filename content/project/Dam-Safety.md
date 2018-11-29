@@ -12,13 +12,15 @@ authors:
 team:
   name: Dammed if you do
   url: ''
-repo: https://github.com/waterdatacollaborative/Dam-Safety
+repo: https://github.com/waterdatacollaborative/Dam-Safety-2018
 topics:
 - infrastructure
 initiatives:
 - 2018-cawdc
 awards:
 - teamspirit
+weight: -352
+cardbackground: '#00838F'
 
 ---
 

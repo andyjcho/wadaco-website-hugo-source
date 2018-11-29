@@ -12,13 +12,15 @@ authors:
 team:
   name: OpenOakland
   url: ''
-repo: https://github.com/waterdatacollaborative/Visualizing-Exceedance-Contaminants
+repo: https://github.com/waterdatacollaborative/OpenOakland_Exceedence-Levels-Vis
 topics:
 - health
 initiatives:
 - 2018-cawdc
 awards:
 - design
+weight: -351
+cardbackground: '#EC407A'
 
 ---
 

@@ -8,12 +8,15 @@ authors:
 team:
   name: Code4Sac
   url: ''
-repo: https://github.com/waterdatacollaborative/high-risk-communities
-topics: []
+repo: https://github.com/waterdatacollaborative/
+topics:
+- affordability
 initiatives:
 - 2018-cawdc
 awards:
 - risinginnovator
+weight: -350
+cardbackground: '#43A047'
 
 ---
 

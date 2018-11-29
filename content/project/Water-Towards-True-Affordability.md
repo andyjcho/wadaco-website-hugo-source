@@ -10,20 +10,18 @@ topics:
 initiatives:
 - 2018-cawdc
 awards: []
+weight: -312
+cardbackground: '#43A047'
 
 ---
 
-Something related to water prices and affordability, or something like this?
+Communities that are economically disadvantaged are most vulnerable to high water prices, and safety and availability issues.
 
+This project combines information from the Public Water Services (PWS), US Census data and water utility rates to study the affordability of drinking water in California.
 
-> Communities that are economically disadvantaged are most vulnerable to high water prices.
+To fill the gaps in the existing data and engage and empowered the communities most affected, a proof-of-concept implementation for a survey is included.
 
-They also did something with Python:
+Additional resources:
 
-```python
-def get_water_data(raw_data):
-    return raw_data.clean(nicely=True)
-```
-
-
+- [Project webpage](https://cawc-towardstrueaffordability.netlify.com/)
 
