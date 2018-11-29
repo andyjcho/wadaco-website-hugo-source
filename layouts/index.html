@@ -12,30 +12,12 @@
             <h6>{{ .Params.blurb }}</h6>
             <div>
             {{ with $.Site.GetPage "page" "home.md" }}{{ .Content }}{{ end }}
-<!-- 
-                {{- if .Params.recentprojects }}
-                <div class="list">
-                    <h4>Recent Projects</h4>
-                    <ul>
-                        {{- range first .Params.recentprojects (where .Site.Pages "Section" "project") }}
-                        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-                        {{- end }}
-                    </ul>
-                </div>
-                {{- end }}
 
-                {{- if .Params.recentposts }}
-                <div class="list">
-                    <h4>Recent Posts</h4>
-                    <ul>
-                        {{- range first .Params.recentposts (where .Site.Pages "Section" "post") }}
-                        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-                        {{- end }}
-                    </ul>
-                </div>
-                {{- end }} -->
             </div>
         </div>
     </div>
+
 </div>
+
+{{ partial "menu-cards.html" . }}
 {{- partial "footer.html" . }}

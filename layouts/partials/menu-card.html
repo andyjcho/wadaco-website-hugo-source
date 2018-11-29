@@ -1,0 +1,12 @@
+<!-- I can't seem to change the height of the single card/cell (currently, it's too high) -->
+<!-- <div class="mdl-card mdl-shadow--4dp mdl-cell mdl-cell--12-col"> -->
+<!-- Making each item a mdl-cell only (instead than mdl-cell mdl-card) works to reduce the vertical height-->
+<div class="mdl-cell mdl-cell--12-col mdl-shadow--4dp">
+        <!-- this version creates smaller tiles (3 grid on desktop), we should check which one looks better on mobile -->
+        <!-- <div class="mdl-cell mdl-shadow--4dp"> -->
+        <a href="{{ .URL }}">
+            <div class="mdl-card__media mdl-color-text--grey-50">
+                <h3>{{ .Name }}</h3>
+            </div>
+        </a>
+    </div>

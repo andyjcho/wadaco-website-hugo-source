@@ -1,0 +1,9 @@
+<div class="hmdl-page mdl-grid">    
+{{- range .Site.Menus.main }}
+
+    {{ if ne .Name "Home" }}
+        {{ partial "menu-card" . }}
+    {{ end }}
+{{- end }}
+
+</div>
