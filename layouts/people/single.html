@@ -1,0 +1,30 @@
+{{- partial "header.html" . }}
+<div class="hmdl-page mdl-grid">
+    <div class="mdl-card mdl-shadow--4dp mdl-cell mdl-cell--12-col">
+        <div class="hmdl-page-banner mdl-card__media mdl-color-text--grey-50" style="{{with .Params.cardheaderimage}}background-image: url('{{ . | relURL }}');{{end}} {{with .Params.cardbackground}}background-color:{{.}};{{end}}">
+            <h3 {{ with .Params.cardtitlecolor }}style="color:{{.}};"{{end}}>{{ title .Params.name }}</h3>
+        </div>
+        <div class="hmdl-page-meta mdl-color-text--grey-700 mdl-card__supporting-text">
+            {{- with .Params.author.image }}
+            <div class="minilogo" style="background-image: url('{{ . | relURL }}');"></div>
+            {{- end }}
+            {{ with .Params.webpage }}
+            <div>
+                <a href={{ . }}>Web</a>
+            </div>
+            &nbsp &nbsp &nbsp
+            {{ end }}
+            <!-- <div class="section-spacer"></div> -->
+            <div>
+                <a href=mailto:{{ .Params.email }}>Email</a>
+            </div>
+        </div>
+        <div class="hmdl-page-content mdl-color-text--grey-700 mdl-card__supporting-text">
+            {{ .Content }}
+        </div>
+        <!-- we don't need this card footer here -->
+        <!-- <div class="hmdl-page-comments mdl-color-text--primary-contrast mdl-card__supporting-text comments"> -->
+        <!-- </div> -->
+    </div>
+</div>
+{{- partial "footer.html" . }}
