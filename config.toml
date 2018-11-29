@@ -39,10 +39,6 @@ MetaDataFormat = "yaml"
   name = "Home"
   url = "/"
   weight = -200
-# [[menu.main]]
-#   name = "Articles"
-#   url = "/post/"
-#   weight = -180
 
 [[menu.main]]
   name = "Mission"
@@ -58,22 +54,13 @@ MetaDataFormat = "yaml"
   name = "Projects"
   url = "/project/"
   weight = -160
-# [[menu.main]]
-#   name = "About"
-#   url = "/about/"
-#   weight = "-140"
 
 [[menu.main]]
   name = "Topics"
   url = "/topics/"
-  weight = "-130"
+  weight = -130
 
 [[menu.main]]
   name = "Initiatives"
   url = "/initiatives/"
-  weight = "-120"
-
-# [[menu.main]]
-#   name = "Challenges"
-#   url = "/challenges/"
-#   weight = "-110"
+  weight = -120
