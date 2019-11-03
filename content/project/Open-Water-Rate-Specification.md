@@ -20,6 +20,7 @@ awards:
 - moonshot
 weight: -353
 cardbackground: '#78909C'
+color_md: blue-gray-400
 
 ---
 

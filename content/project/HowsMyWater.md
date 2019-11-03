@@ -12,6 +12,7 @@ initiatives:
 awards: []
 weight: -310
 cardbackground: '#EC407A'
+color_md: red-400
 
 ---
 

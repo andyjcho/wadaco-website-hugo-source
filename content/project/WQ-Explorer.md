@@ -11,6 +11,7 @@ awards:
 - winner
 weight: -150
 cardbackground: '#EC407A'
+color_md: red-400
 
 ---
 

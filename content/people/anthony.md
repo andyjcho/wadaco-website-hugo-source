@@ -1,8 +1,10 @@
 ---
 name: Anthony Suen
-role: Lead
+role: Program Lead
 webpage: https://bids.berkeley.edu/people/anthony-suen
 email: suen@berkeley.edu
+color_md: red-400
+weight: '100'
 
 ---
 

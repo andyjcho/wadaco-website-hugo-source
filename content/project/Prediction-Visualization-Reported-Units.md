@@ -17,6 +17,7 @@ awards:
 - imagine-h2o
 weight: -355
 cardbackground: '#78909C'
+color_md: blue-gray-400
 
 ---
 

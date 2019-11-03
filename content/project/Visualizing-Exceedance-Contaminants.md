@@ -21,6 +21,7 @@ awards:
 - design
 weight: -351
 cardbackground: '#EC407A'
+color_md: red-400
 
 ---
 

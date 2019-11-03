@@ -20,6 +20,7 @@ awards:
 - readytogo
 weight: -356
 cardbackground: '#EC407A'
+color_md: red-400
 
 ---
 

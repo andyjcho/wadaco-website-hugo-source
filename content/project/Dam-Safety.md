@@ -21,6 +21,7 @@ awards:
 - teamspirit
 weight: -352
 cardbackground: '#00838F'
+color_md: cyan-700
 
 ---
 
