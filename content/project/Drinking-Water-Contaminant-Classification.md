@@ -6,7 +6,7 @@ authors:
 team: {}
 repo: https://github.com/waterdatacollaborative/NicoleLook_Drinking-Water-Contaminant-Classification
 topics:
-- health
+- quality
 - infrastructure
 initiatives:
 - 2018-cawdc

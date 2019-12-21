@@ -5,5 +5,5 @@ badge: "\U0001F3C6"
 
 ---
 
-(This needs a description to go with it)
+This award looks at feasibility of implementation. It addresses real-world needs relevant to drinking water issues, demonstrating an understanding of constraints, including cost of implementation. It works “as is”, and has some level of interoperability with existing work or systems.
 

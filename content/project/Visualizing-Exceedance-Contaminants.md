@@ -14,7 +14,7 @@ team:
   url: ''
 repo: https://github.com/waterdatacollaborative/OpenOakland_Exceedence-Levels-Vis
 topics:
-- health
+- quality
 initiatives:
 - 2018-cawdc
 awards:

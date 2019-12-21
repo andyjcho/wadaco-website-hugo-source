@@ -5,5 +5,5 @@ badge: "\U0001F3C6"
 
 ---
 
-(This needs a description to go with it)
+This award looks at the most ambitious or highest potential for large impact as well as compelling concept and Creativity in approach.
 

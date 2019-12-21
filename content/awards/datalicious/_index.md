@@ -5,5 +5,6 @@ badge: "\U0001F3C6"
 
 ---
 
-(This needs a description to go with it)
+This award is intended to recognize projects that effectively integrate data from different sources or organizations, including their own data.
+
 

@@ -5,5 +5,6 @@ badge: "\U0001F3C6"
 
 ---
 
-(This needs a description to go with it)
+This award recognizes the project that has received the most votes from the summit's in-person participants.
+
 

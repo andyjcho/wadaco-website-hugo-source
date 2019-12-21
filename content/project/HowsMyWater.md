@@ -6,7 +6,7 @@ authors:
 team: {}
 repo: https://github.com/waterdatacollaborative/HowsMyWater-DataAnalysis
 topics:
-- health
+- quality
 initiatives:
 - 2018-cawdc
 awards: []

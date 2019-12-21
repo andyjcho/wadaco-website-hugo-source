@@ -4,7 +4,7 @@ authors: []
 team: {}
 repo: https://github.com/waterdatacollaborative/WQ-Explorer-2016
 topics:
-- health
+- quality
 initiatives:
 - 2016-challenge
 awards:

@@ -1,23 +1,24 @@
 ---
-title: Get the lead out!
+title: Statewide Interactive Map of Lead in Drinking Water
 authors:
 - name: Laura Deehan
   url: ''
 - name: Sadie Gill
   url: ''
-- name: Lo Benichou
+- name: Daniel Dufour
+  url: ''
+- name: Victoria Mak
   url: ''
 team:
-  name: SF No Lead
+  name: California Get the Lead Out!
   url: ''
-repo: https://github.com/waterdatacollaborative/Get-the-Lead-Out
+repo: https://github.com/GeoSurge/get-the-lead-out-map
 topics:
 - quality
 initiatives:
-- 2018-cawdc
+- 2019-cawdc
 awards:
-- peopleschoice
-- readytogo
+- changeatscale
 weight: -356
 cardbackground: '#EC407A'
 color_md: red-400
@@ -28,10 +29,10 @@ Lead Levels in San Francisco Schools San Francisco Unified School District teste
 
 There is no safe level of lead, especially for children. Even small amounts can lower IQ. Damage from lead exposure is irreversible. 
 
-Take action with CALPIRG's "Get The Lead Out:Back to School Toolkit."
+Take action with CALPIRG's "[Get The Lead Out:Back to School Toolkit](https://calpirg.org/resources/caf/get-lead-out-back-school-toolkit)."
 
 Additional resources:
 
-- [Project webpage](https://lobenichou.github.io/waterChallenge/)
-- [2019 Project](https://waterdatachallenge.github.io/project/get-the-lead-out-2019/)
+- [2018 Project](https://waterdatacollaborative.github.io/project/get-the-lead-out/)
+- [Project webpage](https://geosurge.github.io/get-the-lead-out-map/)
 

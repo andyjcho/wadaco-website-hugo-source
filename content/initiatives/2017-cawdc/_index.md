@@ -5,5 +5,4 @@ year: '2017'
 
 ---
 
-TODO create some kind of description here
 

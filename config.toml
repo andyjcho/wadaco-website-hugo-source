@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Water Data Collaborative"
 theme = "HugoMDL"
 MetaDataFormat = "yaml"
-publishDir = "/home/ludo/Dropbox/projects/wadaco/webpage/publish-github-pages"
+publishDir = "public" #"/home/ludo/Dropbox/projects/wadaco/webpage/publish-github-pages"
 
 [permalinks]
 	page = "/:title/"
@@ -23,7 +23,7 @@ publishDir = "/home/ludo/Dropbox/projects/wadaco/webpage/publish-github-pages"
   # twitter = "https://twitter.com/firstname_lastname"
   github = "https://github.com/waterdatacollaborative/"
 
-  copyrightyear = "2018"
+  copyrightyear = "2019"
   frontpageposts = 1 #number of post cards to display on frontpage
 
 [taxonomies]
@@ -46,10 +46,10 @@ publishDir = "/home/ludo/Dropbox/projects/wadaco/webpage/publish-github-pages"
   url = "/mission/"
   weight = -190
 
-[[menu.main]]
-  name = "People"
-  url = "/people/"
-  weight = -180
+#[[menu.main]]
+#  name = "People"
+#  url = "/people/"
+#  weight = -180
 
 [[menu.main]]
   name = "Projects"
@@ -57,11 +57,11 @@ publishDir = "/home/ludo/Dropbox/projects/wadaco/webpage/publish-github-pages"
   weight = -160
 
 [[menu.main]]
-  name = "Topics"
+  name = "Projects by Topic"
   url = "/topics/"
   weight = -130
 
 [[menu.main]]
-  name = "Initiatives"
+  name = "Projects by Year"
   url = "/initiatives/"
   weight = -120

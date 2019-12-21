@@ -1,9 +1,9 @@
 ---
-name: Rising innovator
+name: Rising Innovator
 slug: risinginnovator
 badge: "\U0001F3C6"
 
 ---
 
-(This needs a description to go with it)
+This award is intended to recognize an emerging group of leaders in the water, technology, or innovation fields. The team demonstrated an innovative approach, has high leadership potential, and a diversity of organizations.
 
